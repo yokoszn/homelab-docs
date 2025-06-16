@@ -6,7 +6,7 @@ title: HomelabWiki
 
 [[Update 00 - 15-06-2025 - site in development]]
 
-This is one of the sites where I publish my notes, apart of a *==larger==* ![[second-brain]]
+This is one of the sites where I publish my notes, apart of a *==larger==* [[second-brain]] ![[second-brain]]
 I’ve got a tendency to over-explain I like seeing the full picture, so I often write too deeply and miss the point I was trying to make. Most readers can’t skim through dense blocks that easily. 
 
 Using Obsidian Helps me break things up and express the broader ideas more concisely.
