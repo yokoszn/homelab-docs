@@ -1,3 +1,2 @@
 - homelab.claytownsend.com.au - HomelabWiki **(You are Here!)**
-- claytownsend.com.au - My Digital Garden :)
-- wizardryatwork.?? - learning path, in development
+- itlearn.claytownsend.com.au - learning path, in development
