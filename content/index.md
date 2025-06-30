@@ -10,13 +10,11 @@ This is one of the sites where I publish my notes, apart of a *==larger==* [[sec
 
 ---
 
-[[What Should my Homelab Have?]]
 
 #### todo! 
 
 - [ ] Lots.....
-- [x] [[About Me]]
+- [ ] [[What Should my Homelab Have?]]
 - [ ] [[FAQ - Frequently Asked Questions]]
-- [ ] [[Philosophy for what Software I choose to use]]
 
 This is actively in development and will change frequently! :)
