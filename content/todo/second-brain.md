@@ -1,2 +1,0 @@
-- homelab.claytownsend.com.au - HomelabWiki **(You are Here!)**
-- itlearn.claytownsend.com.au - learning path, in development
