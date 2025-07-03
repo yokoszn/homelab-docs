@@ -1,6 +1,5 @@
 [[My Home Network]]
-[[Home Lab.canvas|Home Lab]]
-[[Home Network Diagram.canvas|Home Network Diagram]]
+
 https://github.com/dnburgess/vpshardening
 
 ![[My Home Network Sub-netting]]
