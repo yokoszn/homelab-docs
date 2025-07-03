@@ -15,6 +15,8 @@ I'm in the process of translating all of this into something more human readable
 - [ ] Lots.....
 - [ ] [[What Should my Homelab Have?]]
 - [ ] [[FAQ - Frequently Asked Questions]]
+- [ ] [[self-hosted software]]
+- [ ] [[My Home Network Project Suggestions]]
 
 This is actively in development and will change frequently! :)
 

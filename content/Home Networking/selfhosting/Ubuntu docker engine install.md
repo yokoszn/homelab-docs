@@ -6,7 +6,7 @@ tags:
   - install-guide
 draft: "true"
 ---
-[[docker]]
+[[Docker]]
 I generally Use this as a quick reference for the commands needed to install docker in a VM or LXC container in proxmox.
 
 there are further steps you should take to optimize for your environment, depending on your setup.

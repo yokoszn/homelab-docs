@@ -1,6 +1,6 @@
 ---
-title: Homelab Project Suggestions
-draft: "true"
+title: My Home Network Project Suggestions
+description: Index for My Home Network Project Suggestions
 tags:
   - homelab-project
   - index

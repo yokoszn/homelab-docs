@@ -2,5 +2,5 @@
 title: KASM Workspaces
 ---
 
-[[docker]]
+[[Docker]]
 [[Sandboxes & Sandboxing]]

@@ -1,10 +1,9 @@
 ---
 title: VPN - Virtual Private Network
-draft: "true"
+description: Index for VPN related Topics.
 ---
 
 [[Glueten]]
-[[ProtonVPN]]
 [[Wireguard]]
 [[OpenVPN]]
 [[IPSec VPN]]

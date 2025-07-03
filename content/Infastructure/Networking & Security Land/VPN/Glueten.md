@@ -3,9 +3,7 @@ title: Glueten
 draft: "true"
 ---
 [[VPN - Virtual Private Network]]
-[[docker]]
-[[containers]]
-
+[[Docker]]
 
 
 https://github.com/qdm12/gluetun-wiki/tree/main
