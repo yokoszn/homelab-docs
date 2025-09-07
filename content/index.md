@@ -2,32 +2,33 @@
 title: HomeLab
 ---
 
-# Hands-on labs for IT and Sovereignty fundamentals
+# Build Your Own Production-Grade Homelab
 
-Step-by-step guides you can replicate at home. Linked to [ITLearn](https://itlearn.claytownsend.com.au/) paths for the complete learning experience.
+> **A practical workshop space—follow these labs to replicate my setup and learn by doing.**
 
-## Get Started
+## 🚀 Get Started
 
-- **[Browse Labs](/labs)** - Explore our hands-on guides organized by category
-- **[Get Help in Commons](https://discord.gg/kgaMm6WJya)** - Join the TWN community for support and discussion
+- **[Browse Labs](/labs)** - Step-by-step guides from bare metal to services
+- **[Join TWN Commons](https://discord.gg/kgaMm6WJya)** - Share your builds and get help
 
-## Lab Categories
+## 🔧 What You'll Build
 
-- **[Networking](/labs#networking)** - VPNs, reverse proxies, and firewall configuration
-- **[Virtualization](/labs#virtualization)** - Proxmox, Docker, and container management
-- **[Security](/labs#security)** - Identity management, SIEM/SOAR, and defensive tools
-- **[Self-Hosting](/labs#self-hosting)** - Media servers, photo galleries, and productivity tools
+- 🖥️ **Proxmox VMs/CTs** — Your base virtualization platform
+- ⚓ **k3s Clusters** — Lightweight Kubernetes for production workloads  
+- 📦 **Compose/Helm Manifests** — Container orchestration you can manage
+- 📊 **Monitoring & Backups** — Keeping your homelab resilient
 
-## About These Labs
+## 🎯 Why These Labs Matter
 
-Each lab includes:
-- Clear learning objectives
-- Hardware and software requirements
-- Step-by-step instructions with code blocks
-- Validation steps to confirm success
-- Links to TWN Commons for community support
+Real infrastructure skills through hands-on practice:
+- 🏗️ **Build once, understand forever** - No black boxes
+- 🔄 **Production patterns** - Same techniques used in enterprise
+- 🛠️ **Break and fix safely** - Your lab, your rules
+- 🤝 **Community validated** - Tested by TWN members
 
-> [!INFO]
-> These labs complement the theory-focused [ITLearn](https://itlearn.claytownsend.com.au/) paths. Start with ITLearn for foundational knowledge, then practice here.
+> [!TIP]  
+> Each lab connects to [ITLearn fundamentals](https://itlearn.claytownsend.com.au/). Theory + practice = mastery.
 
 ---
+
+**Repository:** [github.com/yokoszn/homelab-docs](https://github.com/yokoszn/homelab-docs)

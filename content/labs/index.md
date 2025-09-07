@@ -4,11 +4,13 @@ title: HomeLab Labs Directory
 
 # HomeLab Labs
 
-Hands-on guides for building your own infrastructure and practicing IT skills. Each lab includes clear objectives, requirements, step-by-step instructions, and validation steps.
+> **Build production-grade infrastructure step by step—each lab teaches you skills that scale from homelab to enterprise.**
 
-## Networking
+Transform your spare hardware into a learning platform that mirrors real-world environments. Every lab connects to [ITLearn fundamentals](https://itlearn.claytownsend.com.au/) for complete understanding.
 
-Master network infrastructure and security fundamentals.
+## 🌐 Networking
+
+Master the foundation of all infrastructure—from securing perimeters to routing traffic like a pro.
 
 ### VPN & Remote Access
 - **[OpenVPN Setup Lab](/labs/networking/openvpn)** - Deploy a self-hosted VPN server
@@ -22,9 +24,9 @@ Master network infrastructure and security fundamentals.
 - **[pfSense Firewall Lab](/labs/networking/pfsense)** - Enterprise-grade firewall configuration
 - **[OPNsense Setup Lab](/labs/networking/opnsense)** - Open-source firewall deployment
 
-## Virtualization
+## 🖥️ Virtualization
 
-Learn containerization and virtualization technologies.
+Build the platform everything else runs on—from bare metal to orchestrated containers.
 
 ### Hypervisors
 - **[Proxmox VE Setup Lab](/labs/virtualization/proxmox-ve)** - Full virtualization platform deployment
@@ -34,9 +36,9 @@ Learn containerization and virtualization technologies.
 - **[Docker Installation Lab](/labs/virtualization/docker-install)** - Container runtime setup on Ubuntu/Debian
 - **[Docker Compose Deployment Lab](/labs/virtualization/docker-compose)** - Multi-container application orchestration
 
-## Security
+## 🔐 Security
 
-Implement defense-in-depth security strategies.
+Learn to defend what you build—from identity management to threat detection.
 
 ### Identity & Access Management
 - **[FreeIPA Identity Provider Lab](/labs/security/freeipa)** - Centralized authentication and authorization
@@ -46,9 +48,9 @@ Implement defense-in-depth security strategies.
 - **[SIEM with Wazuh Lab](/labs/security/wazuh-siem)** - Security information and event management
 - **[Intrusion Detection Lab](/labs/security/suricata)** - Network-based threat detection
 
-## Self-Hosting
+## 🏠 Self-Hosting
 
-Replace cloud services with self-hosted alternatives.
+Take back control—run your own services instead of renting someone else's computer.
 
 ### Media & Entertainment
 - **[Jellyfin Media Server Lab](/labs/self-hosting/jellyfin)** - Open-source media streaming
