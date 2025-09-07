@@ -5,6 +5,6 @@ tags:
   - hypervisor
   - ProxmoxVE
   - easy-project
-draft: "true"
+draft: true
 ---
 [[Proxmox VE]]

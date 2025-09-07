@@ -4,7 +4,7 @@ tags:
   - ubuntu
   - docker
   - install-guide
-draft: "true"
+draft: true
 ---
 [[Docker]]
 I generally Use this as a quick reference for the commands needed to install docker in a VM or LXC container in proxmox.
